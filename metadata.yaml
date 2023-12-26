@@ -1,0 +1,27 @@
+_repo: Jnana-Yoga-Part-II-Seven-Lectures_72368
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vivekânanda, Swâmi
+    gutenberg_agent_id: '56659'
+    url: http://www.gutenberg.org/2009/agents/56659
+description: ''
+gutenberg_issued: '2023-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72368'
+language: en
+pgterms:marc905: 20070102224219viveknanda
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Carla Foust, Bryan Ness and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from scanned images of public domain
+  material from the Google Books project.)
+publication_note: '  $aNew York :$bVedânta Society, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jnâna Yoga, Part II: Seven Lectures'
+url: http://www.gutenberg.org/ebooks/72368
