@@ -1,11 +1,16 @@
 _repo: Jnana-Yoga-Part-II-Seven-Lectures_72368
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72368-h/images/cover.jpg
 creator:
   author:
     agent_name: Vivekânanda, Swâmi
     gutenberg_agent_id: '56659'
     url: http://www.gutenberg.org/2009/agents/56659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72368#Jnana-Yoga-Part-II-Seven-Lectures
 gutenberg_issued: '2023-12-10'
 gutenberg_type: Text
 identifiers:
